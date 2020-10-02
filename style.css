@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+}
+#Header{
+    background-color: #3e5c9a;
+    color: white;
+    width: 100%;
+    height: 78px;
+    
+}
+     /* main 2 headers */
+.ONE{
+    display: inline-block;
+    width: 60%;
+}
+.TWO{
+    display: inline-block;
+    padding-top: 30px;
+    
+}
+.one{
+    display: inline-block;
+    align: left;
+    position: relative;
+    bottom: 36px;
+    
+    font-size: 12px;
+    font-weight: bold;
+}
+.two{
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+    bottom: 17px;
+}
+.three{
+    display: inline-block;
+    position: relative;
+    bottom: 34px;
+}
+.one-box,.two-box{
+    height: 20px;
+}
+.logo{
+    position: relative;
+    left: 25%;
+    bottom: 36px;
+}
+.forgot{
+    position: relative;
+    bottom: -3px;
+    
+}
+.forgott{
+    color: rgb(245, 245, 245);
+    opacity: 0.5;
+}
+.in{
+    position: relative;
+    bottom: 3px;
+}
+.Login{
+    background-color:#3e5c9a ;
+    color: white;
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    height: 21px;
+}
+
+/* second section  */
+#skin{
+    background-color: #9cb2ce;
+    color: black;
+    width: 100%;
+    height: 600px;
+    
+}
+.one-body{
+    display: inline-block;
+    width: 60%;
+    float: left;
+    padding: 3% 10%;
+}
+.two-body{
+    display: inline-block;
+    width: 40%;
+    float: right;
+    align: left;
+    padding-top: 3%;
+}
+.fa-newspaper,.fa-address-card,.fa-ball-pile{
+    font-size: 50px;
+    color: rgb(245, 239, 239);
+}
+.sign-first, .sign-last, .sex{
+    display: inline-block;
+}
+.mobile, .pass{
+    padding-top: 8px;
+    width: 75px;
+}
+.terms{
+    padding-right: 20%;
+
+}
+.signup{
+    border-radius: 5px;
+    height: 30px;
+    width: 30%;
+    background-color: #69a74e;
+    color: white;
+
+}
+.connect{
+    
+}
+.details{
+
+    height: 30px;
+}
+.d{
+    width: 368px;
+}
+.date{
+    display: inline-block;
+    position: relative;
+}
+/* footer section  */
+#footer{
+    margin: 3% 12%;
+    align: left;
+    font-size: 12px;
+    color: gray;
+}
+.horizontal{
+    list-style: none;
+    padding: 0%;
+    
+}
+li{
+    display: inline;
+    color: gray;
+}
+.b{
+    padding-left: 4px;
+}
+.gray{
+    color: gray;
+}
+
+
+
+
